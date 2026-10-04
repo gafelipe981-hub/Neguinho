@@ -1,0 +1,9 @@
+                    <svg viewBox="0 0 64 64" fill="none">
+                        <path d="M32 29C22 14 9 19 14 30C18 38 27 35 32 29Z" fill="#F2B64B"/>
+                        <path d="M32 29C42 14 55 19 50 30C46 38 37 35 32 29Z" fill="#F2B64B"/>
+                        <ellipse cx="32" cy="36" rx="8" ry="12" fill="#48633B"/>
+                        <path d="M27 29L37 29M25 35L39 35M27 41L37 41" stroke="#FAFAF7" stroke-width="3"/>
+                        <path d="M28 24L24 17M36 24L40 17" stroke="#48633B" stroke-width="2" stroke-linecap="round"/>
+                        <circle cx="32" cy="23" r="4" fill="#48633B"/>
+                        <path d="M24 47C17 51 14 54 13 58M40 47C47 51 50 54 51 58" stroke="#48633B" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
